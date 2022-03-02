@@ -1,6 +1,6 @@
 🤓 Data Nerd
 
-🧐 Infinitely curious
+🧐 Infinitely Curious
 
 🤩 T-SQL & Postgresql Power User
 
