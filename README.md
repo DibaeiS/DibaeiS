@@ -10,6 +10,8 @@
 
 😁 Playing with Python
 
+😃 Power BI Superfan
+
 🤖 Automation Obsessed
 
 😍 Big Data Narrator
